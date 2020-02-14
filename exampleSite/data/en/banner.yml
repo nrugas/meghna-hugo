@@ -5,8 +5,10 @@ banner:
   bg_image: images/backgrounds/movi.jpg
   icon: ''
   title: PAZIGRAD smart city
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Predstavljamo Pazigrad kao informatičku platformu koja objedinjuje rad
+    prometnog redarstva, pauk službe i parking službe, te time maksimalno optimizira
+    radne procese lokalne samouprave i poduzeća u segmentu prometa u mirovanju i naplate
+    odnosno kontrole parkinga.
   button:
     enable: true
     label: Explore Us
