@@ -11,5 +11,5 @@ banner:
     odnosno kontrole parkinga.
   button:
     enable: true
-    label: Explore Us
+    label: Provjerite!
     link: "#services"
