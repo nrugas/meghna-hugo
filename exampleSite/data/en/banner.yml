@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image: images/backgrounds/smartscan1.jpg
   icon: ''
   title: PAZIGRAD smart city
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
