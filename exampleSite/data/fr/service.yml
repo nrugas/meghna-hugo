@@ -9,10 +9,13 @@ service:
       Predstavljamo Pazigrad kao informatičku platformu koja objedinjuje rad prometnog redarstva, pauk službe i parking službe, te time maksimalno optimizira radne procese lokalne samouprave i poduzeća u segmentu prometa u mirovanju i naplate odnosno kontrole parkinga. Platforma Pazigrad spoj je desetogodišnjeg stvaranja sustava za potrebe lokalnih samouprava i pratećih poduzeća, pri čemu u ovom trenutku na Pazigrad platformi radi preko 50-tak gradova, općina i drugih subjekata diljem zemlje što je pokazatelj kvalitete samih sustava stvorenih na takvoj tehnologiji.
 
       Sustavima i aplikacijama podržanih na Pazigrad platformi obuhvaćeni su cjelokupni procesi rada u predmetnom segmentu, od terenskog rada, preko uredskih administrativnih poslova, do vođenja prekršajnog postupka i evidencije naplate, dohvata podataka od MUP-a o vlasnicima i korisnicima vozila, pa i postupanje prema stranim državljanima.
-  - name: Responsive Design
+  - name: GRADSKO OKO
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |2-
+
+      GRADSKO OKO kao segment projekta PAZIGRAD omogućava uključivanje širokog broja sudionika u jednostavno stvaranje centralne evidencije komunalnih problema. Kroz različite načine prijavljivanja uočenih problema na terenu omogućava svim sudionicima da bez dodatnih napora i tehničkih znanja stvaraju sustavnu evidenciju uočenih problema sa mogućnošću prosljeđivanja na osobe zadužene za pojedinu problematiku.
+
+      Takvom širom „mobilizacijom“ i sinergijskim efektom djelovanja svih sudionika (djelatnika komunalnog sustava, mjesnih odbora, redara,…) postiže se dodatna efikasnost i u cijelosti opravdava uvođenja sustava i u sredinama u kojima prometni problemi osciliraju svojim intenzitetom (sezona).
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
