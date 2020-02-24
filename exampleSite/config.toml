@@ -1,5 +1,5 @@
 baseURL = "https://riingnethugo.netlify.com"
-disableLanguages = []
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -13,38 +13,38 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+home = "Početna"
+languageCode = "hr-hr"
+languageName = "Hr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contacts"
-weight = 7
+URL = "about"
+name = "About Us"
+weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
+URL = "services"
+name = "Service"
+weight = 2
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "Team"
+weight = 4
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
 weight = 5
 [[menu.main]]
-URL = "team"
-name = "Our Team"
-weight = 4
+URL = "blog"
+name = "Blog"
+weight = 6
 [[menu.main]]
-URL = "portfolio"
-name = "References"
-weight = 3
-[[menu.main]]
-URL = "services"
-name = "Services"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About us"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 7
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
