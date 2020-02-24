@@ -39,7 +39,7 @@ name = "REFERENCE"
 weight = 3
 [[menu.main]]
 URL = "services"
-name = "PAZIGRAD"
+name = "PROJEKTI"
 weight = 2
 [[menu.main]]
 URL = "about"
