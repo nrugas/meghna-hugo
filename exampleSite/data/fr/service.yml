@@ -1,34 +1,31 @@
-################################# Service #################################
+---
 service:
-  enable : true
-  title : Our Services
-  service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  enable: true
+  title: Our Services
+  service_item:
+  - name: PAZIGRAD
+    icon: ti-world
+    content: |-
+      Predstavljamo Pazigrad kao informatičku platformu koja objedinjuje rad prometnog redarstva, pauk službe i parking službe, te time maksimalno optimizira radne procese lokalne samouprave i poduzeća u segmentu prometa u mirovanju i naplate odnosno kontrole parkinga. Platforma Pazigrad spoj je desetogodišnjeg stvaranja sustava za potrebe lokalnih samouprava i pratećih poduzeća, pri čemu u ovom trenutku na Pazigrad platformi radi preko 50-tak gradova, općina i drugih subjekata diljem zemlje što je pokazatelj kvalitete samih sustava stvorenih na takvoj tehnologiji.
+
+      Sustavima i aplikacijama podržanih na Pazigrad platformi obuhvaćeni su cjelokupni procesi rada u predmetnom segmentu, od terenskog rada, preko uredskih administrativnih poslova, do vođenja prekršajnog postupka i evidencije naplate, dohvata podataka od MUP-a o vlasnicima i korisnicima vozila, pa i postupanje prema stranim državljanima.
+  - name: Responsive Design
+    icon: ti-layout
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Media &amp; Advertisement
+    icon: ti-blackboard
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Graphic Design
+    icon: ti-palette
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Apps Development
+    icon: ti-package
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Networking
+    icon: ti-pulse
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
