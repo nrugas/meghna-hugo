@@ -19,31 +19,31 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "KONTAKTI"
+name = "Contacts"
 weight = 7
 [[menu.main]]
 URL = "blog"
-name = "BLOG"
+name = "Blog"
 weight = 6
 [[menu.main]]
 URL = "pricing"
-name = "PRICING"
+name = "Pricing"
 weight = 5
 [[menu.main]]
 URL = "team"
-name = "TIM"
+name = "Our Team"
 weight = 4
 [[menu.main]]
 URL = "portfolio"
-name = "REFERENCE"
+name = "References"
 weight = 3
 [[menu.main]]
 URL = "services"
-name = "PROJEKTI"
+name = "Services"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "O TVRTCI"
+name = "About us"
 weight = 1
 [params]
 author = "Themefisher"
