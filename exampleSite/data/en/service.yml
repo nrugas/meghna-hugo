@@ -6,13 +6,7 @@ service:
   - name: CITY GUARD
     icon: ti-world
     content: 'We present the City Guard as an IT platform which combines activities
-      of municipal traffic service, vehicle relocation service and parking services,
-      and thus maximizes the work processes of local municipalities and companies
-      in the segment of traffic at rest and parking payment and control . City Guard
-      platform combines ten-year creation period developing systems for local municipality
-      needs and accompanying companies, whereby at this time Pazigrad platform operates
-      over 50 cities and other entities across the country, which is an indicator
-      of quality regarding systems created on such technology. '
+      of municipal traffic service, vehicle relocation servic '
   - name: CITY EYE
     icon: ti-layout
     content: |2-
