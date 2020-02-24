@@ -1,9 +1,9 @@
 ---
 service:
   enable: true
-  title: Naši Projekti
+  title: Our Services
   service_item:
-  - name: PAZIGRAD
+  - name: CITY GUARD
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
