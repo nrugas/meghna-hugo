@@ -16,19 +16,3 @@ service:
       GRADSKO OKO kao segment projekta PAZIGRAD omogućava uključivanje širokog broja sudionika u jednostavno stvaranje centralne evidencije komunalnih problema. Kroz različite načine prijavljivanja uočenih problema na terenu omogućava svim sudionicima da bez dodatnih napora i tehničkih znanja stvaraju sustavnu evidenciju uočenih problema sa mogućnošću prosljeđivanja na osobe zadužene za pojedinu problematiku.
 
       Takvom širom „mobilizacijom“ i sinergijskim efektom djelovanja svih sudionika (djelatnika komunalnog sustava, mjesnih odbora, redara,…) postiže se dodatna efikasnost i u cijelosti opravdava uvođenja sustava i u sredinama u kojima prometni problemi osciliraju svojim intenzitetom (sezona).
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
